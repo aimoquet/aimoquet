@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%">
-
 <br><br>
 <div align="center">
   <img src="./alisha-avatar.png"
