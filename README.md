@@ -3,7 +3,17 @@
 <img src="./github-banner.png" width="100%">
 
 <br><br>
+<div align="center">
+  <img src="./alisha-avatar.png"
+       width="280"
+       alt="Alisha Anime Avatar">
 
+  <h1>Hey! This is Alisha ♡</h1>
+  <h3>Welcome to my GitHub page!</h3>
+  <p>Just a girl who loves to code, create and learn.</p>
+</div>
+
+<br>
 <a href="#-about-me">
 <img src="https://img.shields.io/badge/🧠%20ABOUT%20ME-8B5CF6?style=for-the-badge">
 </a>
